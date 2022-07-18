@@ -1,2 +1,2 @@
-# serial-number-test
-Prueba tecnica
+# serial-number-info
+prueba tecnica Boardgent
